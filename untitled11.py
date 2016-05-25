@@ -2,7 +2,7 @@ import json
 
 
 '''
- Determine the number of sessions per user per 
+ Determine the number of sessions per user per game
  Determine the average session length per user per game
 '''
 def NumberofSessionsperUserperGame(log_dic,fw):
